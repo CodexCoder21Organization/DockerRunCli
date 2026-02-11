@@ -1,0 +1,6 @@
+{
+  "name": "dockerruncli",
+  "source": "src",
+  "buildscript": "build.kts",
+  "readme": "README.md"
+}
