@@ -11,8 +11,8 @@ val dependencies = resolveDependencies(
     // DockerRunApi interfaces
     MavenPrebuilt("dockerrun.api:docker-run-api:0.0.1"),
     // UrlResolver and UrlProtocol
-    MavenPrebuilt("foundation.url:resolver:0.0.362"),
-    MavenPrebuilt("foundation.url:protocol:0.0.255"),
+    MavenPrebuilt("foundation.url:resolver:0.0.378"),
+    MavenPrebuilt("foundation.url:protocol:0.0.256"),
     // Clock abstraction (required by UrlProtocol)
     MavenPrebuilt("community.kotlin.clocks.simple:community-kotlin-clocks-simple:0.0.1"),
     // SJVM for sandboxed execution (required by UrlResolver)
